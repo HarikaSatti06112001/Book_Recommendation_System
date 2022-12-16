@@ -6,7 +6,7 @@ The main objective is to create a recommendation system to recommend relevant bo
 Link to Presentation : https://github.com/nagabathula/dataholics/blob/main/255-FinalProject/C255%20-%20Book%20Recommendation%20System%20-%20Project%20Presentation.pdf
 
 
-Link to Presentation Video : 
+Link to Presentation Video : https://youtu.be/iuY02Owr9S0
 
 
 Sections of the Presentation:
